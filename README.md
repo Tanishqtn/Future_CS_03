@@ -163,7 +163,7 @@ This project was conducted strictly for **educational and security awareness pur
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Tanishq Nougrahiya**  
 Cybersecurity Enthusiast | Vulnerability Assessment | API Security
 
@@ -171,5 +171,5 @@ Cybersecurity Enthusiast | Vulnerability Assessment | API Security
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 Special thanks to public API providers and the **OWASP API Security Top 10** framework for enabling secure learning and practical security assessment experience.
