@@ -49,7 +49,7 @@ Security configuration review
 - **Postman**
 - **Insomnia**
 - **Browser DevTools**
-- **cURL**
+- **curl**
 
 ### Security Analysis
 - **OWASP API Security Top 10 (2023)**
@@ -98,7 +98,7 @@ Suggested fixes and secure development recommendations.
 
 ---
 
-## 🚨 Key Findings
+## Key Findings
 
 The assessment identified **16 vulnerabilities** across four APIs.
 
